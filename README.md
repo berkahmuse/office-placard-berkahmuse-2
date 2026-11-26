@@ -19,7 +19,7 @@ node main.ts
 ## Self-check
 
 - Format: UTF-8 text, 1 line, 173 characters, 173 bytes, no trailing newline — PASS (gate: 1–180 characters, not whitespace-only)
-- Determinism: two runs produce byte-identical output (verified locally, SHA-256 recorded below) — PASS
+- Determinism: two runs produce byte-identical output, SHA-256 `62c9351afe2e756014bba679ac17c528a717cdf6802a8eb12ab6849f1ffe436e` — PASS
 - No environment secrets, nothing read from outside the repository — PASS
 
 ## Entry
